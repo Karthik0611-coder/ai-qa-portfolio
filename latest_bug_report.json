@@ -1,0 +1,7 @@
+{
+  "bug_title": "URL Mismatch Regression on Login Redirect",
+  "severity": "High",
+  "affected_module": "Authentication & Navigation Module",
+  "is_regression": false,
+  "recommended_action": "Verify expected test assertions against the routing configuration in test_login.py."
+}
